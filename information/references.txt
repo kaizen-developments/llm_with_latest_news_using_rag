@@ -1,0 +1,8 @@
+Rag Models:
+
+Research Papers:
+https://ar5iv.labs.arxiv.org/html/2005.11401
+https://ar5iv.labs.arxiv.org/html/2405.07437
+https://www.cambridge.org/core/journals/natural-language-engineering/article/emerging-trends-a-gentle-introduction-to-rag/4FF461F4066A0C16135F2D2849E3356A
+https://nessie.ilab.sztaki.hu/~kornai/2024/RAG/Resources/church_2024.pdf
+https://nessie.ilab.sztaki.hu/~kornai/2024/RAG/
